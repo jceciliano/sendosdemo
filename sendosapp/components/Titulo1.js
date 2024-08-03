@@ -21,7 +21,7 @@ const Titulo1 =  ({nombre,subtitilo,puesto}) => {
                 </View>
                 <View>
                     <Text style={{fontSize: 16,fontWeight: 'bold', color: '#556bac', textAlign: 'right'}}>{vNombre}</Text>
-                    <Text style={{fontSize: 16,color: '#aaa', textAlign: 'right'}}>vPuesto</Text>
+                    <Text style={{fontSize: 16,color: '#aaa', textAlign: 'right'}}>{vPuesto}</Text>
                 </View>
             </View>
 		</>
